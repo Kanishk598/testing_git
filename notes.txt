@@ -1,2 +1,2 @@
 a very good USB flashing software is Universal USB Installer, but Balena Etcher is fine too!
-Hey, this is a new edit in the new branch
+Hey, this is a new edit in the new branch. 
