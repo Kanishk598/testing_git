@@ -1,0 +1,3 @@
+[submodule "My-new-repo"]
+	path = My-new-repo
+	url = https://github.com/kanishk598/My-new-repo
